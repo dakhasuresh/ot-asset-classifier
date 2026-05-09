@@ -40,7 +40,7 @@ pip install ot-asset-classifier
 Or from source:
 
 ```bash
-git clone https://github.com/suresh-dakha/ot-asset-classifier.git
+git clone https://github.com/dakhasuresh/ot-asset-classifier.git
 cd ot-asset-classifier
 pip install -e .
 ```
